@@ -1,0 +1,26 @@
+:root {
+    --primary-color: black;
+}
+
+body {
+    background: var(--primary-color);
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.barranavegacion {
+    background: var(--primary-color); 
+       
+}
+
+.tituloheader{
+    text-decoration: none;
+    font-weight: bold;
+    color:white;
+    font-size: 2em;
+}
+
+span{
+    color: gray;
+}
+
